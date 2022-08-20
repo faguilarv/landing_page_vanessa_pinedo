@@ -15,7 +15,7 @@ h1 { /* Estilos de los titulares h1 */
 
 
 body { /* Estilos del cuerpo */
-    background: white;
+    background: rgb(255,224,255)   ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: saddlebrown;
     margin: 0px;
@@ -34,7 +34,8 @@ body { /* Estilos del cuerpo */
 
 
 .footer { /* Estilos del footer */
-    background-color: rgb(102, 207, 211);
+    background-color: 
+    rgb(255,105,180);
     height: 7em;
     line-height: 7em;
     font-weight: bolder;
